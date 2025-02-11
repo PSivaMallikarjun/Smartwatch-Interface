@@ -43,7 +43,7 @@ Weather and Air Quality: Fetches live weather and air quality data.
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/Smartwatch-Interface.git
+git clone https://github.com/PSivaMallikarjun/Smartwatch-Interface.git
 Navigate to the project folder:
 
 cd Smartwatch-Interface
